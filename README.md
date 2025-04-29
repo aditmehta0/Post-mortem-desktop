@@ -44,9 +44,10 @@ python main.py
 ```
 
 ### 📦 As .exe (Windows Only)
-A prebuilt `.exe` is in the `dist/` folder (if available).
+A prebuilt `.exe` is in the `dist/` folder.
 Double-click `main.exe` to launch the app.
-*Free Signature was created free from certmgr.msc and may cause an alert on launch (run anyway or create your own dist)
+Locate or create new database file for your group.
+*Free Signature was created free from certmgr.msc and may cause an alert on launch (run anyway or create your own dist).
 
 ---
 
