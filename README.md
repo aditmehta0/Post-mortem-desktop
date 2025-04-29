@@ -17,7 +17,7 @@ A standalone Tkinter-based GUI for managing project post-mortems. Add projects, 
 - 📝 Fields for:
   - Project Owner, Status, Dates
   - Root Cause, Lessons Learned, Severity, Mitigation
-- 🔍 **Search bar** (to be added soon)
+- 🔍 **Search bar** (to be more useful soon with your own database file)
 - 💾 Uses a single `.db` SQLite file — easy to share or back up
 - 💻 100% standalone — works without internet or server
 
@@ -44,6 +44,7 @@ python main.py
 ### 📦 As .exe (Windows Only)
 A prebuilt `.exe` is in the `dist/` folder (if available).
 Double-click `main.exe` to launch the app.
+*Free Signature was created free from certmgr.msc and may cause an alert on launch (run anyway or create your own dist)
 
 ---
 
