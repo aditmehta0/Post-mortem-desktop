@@ -7,7 +7,7 @@ A standalone Tkinter-based GUI for managing project post-mortems. Add projects, 
 ## 📸 Preview
 
 <p align="center">
-  <img src="logo.png" alt="Post-Mortem UI" width="200">
+  <img src="logo.png" alt="Post-Mortem UI" width="400">
 </p>
 
 ---
