@@ -1,0 +1,7 @@
+# Ignore output folders
+dist/
+build/
+__pycache__/
+*.spec
+*.pfx
+*.db
